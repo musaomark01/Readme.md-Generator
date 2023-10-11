@@ -20,7 +20,7 @@ The ReadMe Generator is a lightweight command-line application designed for gene
 
 ## Installation
 -Node.js (version 18.18.0.) -Npm install Inquirer (version 8.2.4)
-
+[Walk through video](https://drive.google.com/file/d/1bWYKtmq-t4RjOt6LkerVhigDoKPTmRgf/view?usp=drive_link)
 ## Usage
 clone the repository Navigate to the ReadMe Generator directory in the command line and run node index.js A series of questions will appear sequentially, allowing you to customize the content of your readme file. Most of these questions will require you to input information, confirm choices with checkboxes, and select options from lists. Then a readme should be generated
 
