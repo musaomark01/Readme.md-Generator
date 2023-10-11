@@ -42,7 +42,7 @@ inquirer
     {
       type: 'input',
       name: 'contributing',
-      message: '',
+      message: 'Enter contribution guidelines or instructions',
     },
     {
       type: 'rawlist',
